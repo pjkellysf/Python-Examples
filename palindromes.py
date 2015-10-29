@@ -7,7 +7,7 @@
 
 # Set the content of the file to a variable.
 wrapper = open('/users/abrick/resources/american-english-insane')
-# Assign the maximum length of the palindrome to be found.
+# Assign the minimum length of the palindrome to be found.
 minLetters = 7
 
 # Iterate through the contents
