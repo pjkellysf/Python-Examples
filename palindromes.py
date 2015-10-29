@@ -20,3 +20,5 @@ for line in wrapper:
     if word == word[::-1] and (len(word) > minLetters):
         #Print out the result
         print('The word',word,'is a palindrome with more than',minLetters,'letters.')
+        
+wrapper.close()
