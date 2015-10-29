@@ -19,4 +19,4 @@ for line in wrapper:
     # Compare the length to the minimum length
     if word == word[::-1] and (len(word) > minLetters):
         #Print out the result
-        print('The word',word,'is a palindrome and has more than',minLetters,'letters.')
+        print('The word',word,'is a palindrome with more than',minLetters,'letters.')
