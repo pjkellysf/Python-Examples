@@ -3,7 +3,7 @@
 # CS131A
 # October 28, 2015
 
-#Write a program which finds any palindromes over seven letters long in the dictionary /users/abrick/resources/american-english-insane (there are three: a Dravidian language, a trademarked farm implement, and a mixture of herbs.)
+#A program which finds any palindromes over seven letters long in the dictionary /users/abrick/resources/american-english-insane (there are three: a Dravidian language, a trademarked farm implement, and a mixture of herbs.)
 
 # Set the content of the file to a variable.
 wrapper = open('/users/abrick/resources/american-english-insane')
